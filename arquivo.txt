@@ -1,1 +1,2 @@
 Olá, mundo! Primeira linha do projeto no repositório local. (escrito pela usuária Bela).
+Segunda linha do projeto, após criação do repositório remoto.
